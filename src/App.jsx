@@ -31,7 +31,7 @@ const App = () => {
             </Col>
             <Col md={6}>
               <img
-                src="src/image/photonew.jpg"
+                src="./photonew.jpg"
                 alt="Profile"
                 style={{ height: '250px', width: '250px' }}
                 className="img-fluid rounded-circle"
